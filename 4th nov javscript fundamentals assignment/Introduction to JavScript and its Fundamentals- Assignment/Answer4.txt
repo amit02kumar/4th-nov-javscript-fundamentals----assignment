@@ -1,0 +1,11 @@
+Variables:-
+A JavaScript variable is simply a name of storage location. There are two types of variables in JavaScript : local variable and global variable.
+
+purpose of declaring JavaScript variable:-
+We can use variables to store goodies, visitors, and other data. 
+To create a variable in JavaScript, we use the let and const keyword. 
+
+eg:-
+let name = "Amit";
+
+let rollNo = 15;

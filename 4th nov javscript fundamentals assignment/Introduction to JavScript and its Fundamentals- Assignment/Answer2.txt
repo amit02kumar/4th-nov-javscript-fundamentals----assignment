@@ -1,0 +1,22 @@
+HTML:-
+(1)-HTML is primarily used for structuring and presenting content on the web.
+(2)HTML defines the structure of a web page using elements and tags.
+(3)-HTML is parsed and executed by the browser to render the structure and content of a web page.
+
+
+
+
+JavaScript:-
+(1)-JavaScript is used for creating dynamic and interactive elements on web pages.
+(2)-JavaScript adds behavior to the HTML by allowing you to manipulate the DOM, handle events, and perform actions.
+(3)-JavaScript is executed by the browser to provide interactivity and dynamic functionality.
+
+Example of where HTML is used:-
+(a)-Defining the structure of a webpage.
+(b)-Creating static content like text, images, and links.
+(c)-Organizing information with headings, paragraphs, lists, and tables. 
+
+Example of where JavaScript is used:-
+(a)-Validating user input in forms.
+(b)-Creating interactive elements like sliders, accordions, and tabs.
+(c)-Handling user events such as clicks, keypresses, and mouse movements.

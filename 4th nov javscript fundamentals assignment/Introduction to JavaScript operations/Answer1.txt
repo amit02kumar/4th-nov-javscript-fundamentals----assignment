@@ -1,0 +1,12 @@
+JavaScript Operators:-
+Operators are used to assign values, compare values, perform arithmetic operations, and more.
+
+purpose of JavaScript Operators:-
+(1)- operators ae used to assign the values.
+(2)- Operators are used to performing specific mathematical and logical computations on operands.
+(3)- Operators are used to compare values.
+(4)- operators are used to perform arithmetic operations.
+
+JavaScript operators are essential for writing efficient and effective code.
+JavaScript operators allow us to perform operations on variables and values.
+JavaScript operators can be used to compare values, assign values, and perform aritmetic operations.

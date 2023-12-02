@@ -1,0 +1,15 @@
+Unary Operator:-
+(1)- This operator require one operand for operation.
+eg:- typeof operator, delete operator,etc
+typeof "amit";
+
+Binary Operator:-
+(1)-This operators require two operands for operation.
+eg:- Arithmetic operators, comparision operators, etc.
+let a= 10;  let b=5; let sum = a+b;
+
+Ternary Operator:-
+(1)-This operator require three operands.
+eg:- conditional operator.
+let score = 80;
+let scoreRating = score > 50? "good" : "poor"

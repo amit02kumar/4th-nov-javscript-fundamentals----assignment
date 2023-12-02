@@ -1,0 +1,15 @@
+In JavaScript, operators have different precedence levels and associatives, which determine the order in which they are evaluated when multiple operators are present in an expression.
+
+Precedence refers to the periority of operators, while associativity defines the order in which operators of the same precedence are evaluated.
+
+Precedence Levels:-
+(1)- Operators with higher precedence are evaluated first.
+(2)- Parentheses '()' can be used to explcitly control the order of evaluation.
+
+Associativity:-
+(1)- Associativity defines the order in which operators of the same precedence are evaluated.
+(2)- Most operators in JavaScript are left-associative, meaning they are evaluated from left to right.
+
+
+It's crucial to be aware of operator precedence and associativity to avoid unexpected behavior in expressions. When in doubt, use parerntheses to explcitly indicate the order of evaluation.
+Understanding these principles is essential for writing correct and predictable JavaScript code.

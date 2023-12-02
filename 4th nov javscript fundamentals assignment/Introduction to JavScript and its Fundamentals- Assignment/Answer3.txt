@@ -1,0 +1,24 @@
+Primitive Data types:-
+(1)-number
+(2)-String
+(3)-Boolean
+(4)-null
+(5)-undefined
+
+[1]-number:-All JavaScript numbers are stored as decimal numbers or floating point.
+Numbers can be written with, or without decimals.
+eg:- let rollNo = 10;
+
+[2]-String:- A string is a series of characters like "Amit Kumar".
+Strings are written with quotes. we can use single or double quotes.
+eg:- let name = "Amit";
+
+[3]-Boolean:-Booleans can only have two values: true or false.
+eg:- let tree = true;
+
+[4]-null:-An empty value has nothing to do with undefined.
+An empty string has both a legal value and a type.
+eg:- let car = " ";
+
+[5]-undefined:-in JavaScript, a variable without a value, has the value undefined. The type is also undefined.
+eg:- let car;

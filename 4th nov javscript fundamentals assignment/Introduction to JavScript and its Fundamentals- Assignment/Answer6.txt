@@ -1,0 +1,9 @@
+The importance of choosing meaningful and descriptive variable in javaScript is:-
+(1)-Clear and meaningful variable names make your code more readable and understandable. 
+(2)-When someone, including yourself, reads the code later on, descriptive variable names make it easier to comprehend the purpose and intent of the variable.
+(3)- More readable.
+
+eg:- let firstName= "amit";
+Let lastName = "kumar";
+
+in this example it is clearly understandable that the first Name is amit and the last Name is kumar.

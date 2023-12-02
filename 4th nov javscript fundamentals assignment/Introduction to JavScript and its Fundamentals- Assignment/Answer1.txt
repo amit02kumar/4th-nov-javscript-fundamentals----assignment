@@ -1,0 +1,16 @@
+JavaScript:-
+(1)-JavaScript is the Programming Language for the Web.
+
+(2)-JavaScript is a scripting language for creating dynamic web page content.
+
+(3)-JavaScript can update and change both HTML and CSS.
+
+(4)-JavaScript can calculate, manipulate and validate data.
+
+Role of JavaScript in web development:-
+(a)-It can be used both in the front-end and back-end of web development
+(b)-Serves everyone from beginners to intermediate and even advanced developers
+(c)-Can run on all devices
+(d)-It does not need an environment setup
+(e)-Standardized and gets frequently updated    with new versions
+(f)-Open Standards and Community

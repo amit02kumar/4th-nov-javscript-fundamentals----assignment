@@ -1,0 +1,47 @@
+Types of Operators in javaScript:-
+(a)-Arithmetic Operators
+(b)-Assignment Operators
+(c)-Comparison Operators
+(d)-String Operators
+(e)-Logical Operators
+(f)-Bitwise Operators
+(g)-Ternary Operators
+(h)-Typeof Operators
+
+[a]- Arithmetic Operators:- Arithmetic Operators are used to perform arithmetic on numbers:
+eg:- let a=5;
+     let b=4;
+     let sum = a+b;
+
+[b]-Assignment Operators:-Assignment operators assign values to JavaScript variables.
+eg:- let x = 10;
+     x += 5;
+
+[c]-Comparison operators:-Comparison operators are used in logical statements to determine equality or difference between variables or values.
+eg:- if(age <= 18){
+    console.log("Not eligible to vote");
+}
+
+[4]- String operators:- All the comparison operators above can also be used on strings:
+eg:- All the comparison operators above can also be used on strings:
+eg:- let text1 = "A";
+     let text2 = "B";
+     let result = text1 <text2;
+
+[5]-Logical operator:- Logical operators are used to determine the logic between variables or values.
+eg:- if(a>=8 || b<=5){
+    console.log("This is a logical operator");
+}
+     
+[6]-Bitwise operator:-Bit operators work on 32 bits numbers.
+Any numeric operand in the operation is converted into a 32 bit number. The result is converted back to a JavaScript number.
+
+[7]-Ternary operator:-JavaScript also contains a conditional operator that assigns a value to a variable based on some condition.
+eg:- let voteable= (age <18)? "Not eligible":"eligible";
+
+[8]-Typeof operator:- we can use the typeof operator to find the data type of a JavaScript variable.
+eg:- typeof "Amit";
+
+
+
+     
